@@ -1,0 +1,387 @@
+# depslib dependency file v1.0
+1452762462 source:d:\work\stl\containers\main.cpp
+	<conio.h>
+	"Vector.h"
+	"Lists.h"
+	"set.h"
+	"map.h"
+
+1452726250 source:d:\work\stl\containers\list.cpp
+	<list>
+	<iostream>
+
+1452258480 d:\work\stl\containers\vector.cpp
+	<iostream>
+	<vector>
+	<conio.h>
+
+1452723933 source:d:\work\stl\containers\vector.cpp
+	<iostream>
+	<vector>
+	<conio.h>
+
+1452258729 d:\work\stl\containers\vector.h
+	<iostream>
+	<vector>
+	<conio.h>
+
+1452259268 d:\work\stl\containers\lists.h
+	<list>
+	<iostream>
+
+1452758665 source:d:\work\stl\containers\set.cpp
+	<set>
+	<iostream>
+	<iterator>
+	<algorithm>
+	<fstream>
+
+1452551616 d:\work\stl\containers\set.h
+	<set>
+	<iostream>
+
+1452762462 d:\work\stl\containers\map.h
+
+1452764869 source:d:\work\stl\containers\map.cpp
+	<list>
+	<iostream>
+	<iterator>
+	<algorithm>
+	<fstream>
+
+1479721452 source:d:\docs\sesiunea 1- containers and iterators\containers\list.cpp
+	<list>
+	<iostream>
+
+1479810623 source:d:\docs\sesiunea 1- containers and iterators\containers\main.cpp
+	<conio.h>
+	"Vector.h"
+	"Lists.h"
+	"set.h"
+	"map.h"
+	"problema.h"
+
+1479110010 d:\docs\sesiunea 1- containers and iterators\containers\vector.h
+	<iostream>
+	<vector>
+	<conio.h>
+
+1479110010 d:\docs\sesiunea 1- containers and iterators\containers\lists.h
+	<list>
+	<iostream>
+
+1479110010 d:\docs\sesiunea 1- containers and iterators\containers\set.h
+	<set>
+	<iostream>
+
+1479110010 d:\docs\sesiunea 1- containers and iterators\containers\map.h
+
+1479110010 source:d:\docs\sesiunea 1- containers and iterators\containers\map.cpp
+	<list>
+	<iostream>
+	<iterator>
+	<algorithm>
+	<fstream>
+
+1479392236 source:d:\docs\sesiunea 1- containers and iterators\containers\set.cpp
+	<set>
+	<iostream>
+	<iterator>
+	<algorithm>
+	<fstream>
+
+1479382910 source:d:\docs\sesiunea 1- containers and iterators\containers\vector.cpp
+	<iostream>
+	<vector>
+	<conio.h>
+
+1479392516 d:\docs\sesiunea 1- containers and iterators\containers\set_demo.h
+	<set>
+	<iostream>
+
+1479393961 d:\docs\sesiunea 1- containers and iterators\containers\problema.h
+
+1479480257 source:d:\docs\sesiunea 1- containers and iterators\containers\problema.cpp
+	<iostream>
+	<vector>
+	<map>
+
+1479395012 source:d:\docs\sesiunea 1- containers and iterators\containers\set_demo.cpp
+	<set>
+	<iostream>
+	<iterator>
+	<algorithm>
+	<fstream>
+
+1479816416 source:c:\users\netrom\desktop\sesiunea 1- containers and iterators\containers\list.cpp
+	<list>
+	<iostream>
+
+1479904853 source:c:\users\netrom\desktop\sesiunea 1- containers and iterators\containers\main.cpp
+	<conio.h>
+	"Vectors.h"
+	"Lists.h"
+	"set_demo.h"
+	"problema.h"
+
+1479110010 c:\users\netrom\desktop\sesiunea 1- containers and iterators\containers\vector.h
+	<iostream>
+	<vector>
+	<conio.h>
+
+1479110010 c:\users\netrom\desktop\sesiunea 1- containers and iterators\containers\lists.h
+	<list>
+	<iostream>
+
+1479110010 c:\users\netrom\desktop\sesiunea 1- containers and iterators\containers\set.h
+	<set>
+	<iostream>
+
+1479110010 c:\users\netrom\desktop\sesiunea 1- containers and iterators\containers\map.h
+
+1479393961 c:\users\netrom\desktop\sesiunea 1- containers and iterators\containers\problema.h
+
+1479110010 source:c:\users\netrom\desktop\sesiunea 1- containers and iterators\containers\map.cpp
+	<list>
+	<iostream>
+	<iterator>
+	<algorithm>
+	<fstream>
+
+1479885501 source:c:\users\netrom\desktop\sesiunea 1- containers and iterators\containers\problema.cpp
+	<iostream>
+	<vector>
+	<map>
+
+1479904915 source:c:\users\netrom\desktop\sesiunea 1- containers and iterators\containers\set_demo.cpp
+	<set>
+	<iostream>
+	<iterator>
+	<algorithm>
+	<fstream>
+
+1479720988 source:c:\users\netrom\desktop\sesiunea 1- containers and iterators\containers\vector.cpp
+	<iostream>
+	<vector>
+	<conio.h>
+
+1479392516 c:\users\netrom\desktop\sesiunea 1- containers and iterators\containers\set_demo.h
+	<set>
+	<iostream>
+
+1479902445 source:c:\users\netrom\desktop\sesiunea 1- containers and iterators\containers\lists.cpp
+	<list>
+	<iostream>
+
+1479887643 source:c:\users\netrom\desktop\sesiunea 1- containers and iterators\containers\vectors.cpp
+	<iostream>
+	<vector>
+	<conio.h>
+
+1479110010 c:\users\netrom\desktop\sesiunea 1- containers and iterators\containers\vectors.h
+	<iostream>
+	<vector>
+	<conio.h>
+
+1479902445 source:c:\users\l.s.petrescu\desktop\prezentare\prezentare\sourcecode_containers_live\lists.cpp
+	<list>
+	<iostream>
+
+1510133458 source:c:\users\l.s.petrescu\desktop\prezentare\prezentare\sourcecode_containers_live\main.cpp
+	<conio.h>
+	"Vectors.h"
+	"Lists.h"
+	"list_demo.h"
+	"problema.h"
+
+1479110010 c:\users\l.s.petrescu\desktop\prezentare\prezentare\sourcecode_containers_live\vectors.h
+	<iostream>
+	<vector>
+	<conio.h>
+
+1479110010 c:\users\l.s.petrescu\desktop\prezentare\prezentare\sourcecode_containers_live\lists.h
+	<list>
+	<iostream>
+
+1479392516 c:\users\l.s.petrescu\desktop\prezentare\prezentare\sourcecode_containers_live\set_demo.h
+	<set>
+	<iostream>
+
+1479393961 c:\users\l.s.petrescu\desktop\prezentare\prezentare\sourcecode_containers_live\problema.h
+
+1479904915 source:c:\users\l.s.petrescu\desktop\prezentare\prezentare\sourcecode_containers_live\set_demo.cpp
+	<set>
+	<iostream>
+	<iterator>
+	<algorithm>
+	<fstream>
+
+1479887643 source:c:\users\l.s.petrescu\desktop\prezentare\prezentare\sourcecode_containers_live\vectors.cpp
+	<iostream>
+	<vector>
+	<conio.h>
+
+1510131488 source:c:\users\l.s.petrescu\desktop\prezentare\prezentare\sourcecode_containers_live\problema.cpp
+	<iostream>
+	<vector>
+	<string>
+	<map>
+
+1510133410 c:\users\l.s.petrescu\desktop\prezentare\prezentare\sourcecode_containers_live\list_demo.h
+
+1510747130 source:c:\users\l.s.petrescu\desktop\sourcecode_containers\list.cpp
+	<list>
+	<iostream>
+	"outputContainer.h"
+
+1510746716 source:c:\users\l.s.petrescu\desktop\sourcecode_containers\list_demo.cpp
+	<set>
+	<iostream>
+	<iterator>
+	<algorithm>
+	<fstream>
+	<list>
+
+1510749558 source:c:\users\l.s.petrescu\desktop\sourcecode_containers\main.cpp
+	<conio.h>
+	"vector.h"
+	"list.h"
+	"set.h"
+	"map.h"
+	"list_demo.h"
+	"problema_voturi.h"
+	"problema_carti.h"
+
+1510665971 c:\users\l.s.petrescu\desktop\sourcecode_containers\vector.h
+	<iostream>
+	<vector>
+	<conio.h>
+
+1510665958 c:\users\l.s.petrescu\desktop\sourcecode_containers\list.h
+	<list>
+	<iostream>
+
+1479110010 c:\users\l.s.petrescu\desktop\sourcecode_containers\set.h
+	<set>
+	<iostream>
+
+1510747715 c:\users\l.s.petrescu\desktop\sourcecode_containers\map.h
+
+1510133410 c:\users\l.s.petrescu\desktop\sourcecode_containers\list_demo.h
+
+1510665963 c:\users\l.s.petrescu\desktop\sourcecode_containers\problema_voturi.h
+
+1510742406 c:\users\l.s.petrescu\desktop\sourcecode_containers\problema_carti.h
+
+1510749246 source:c:\users\l.s.petrescu\desktop\sourcecode_containers\map.cpp
+	<map>
+	"outputContainer.h"
+
+1510742025 source:c:\users\l.s.petrescu\desktop\sourcecode_containers\problema_carti.cpp
+	<list>
+	<iostream>
+	<iterator>
+	<algorithm>
+	<fstream>
+
+1510746990 source:c:\users\l.s.petrescu\desktop\sourcecode_containers\problema_voturi.cpp
+	"problema_voturi.h"
+	<iostream>
+	<vector>
+	<string>
+	<map>
+
+1510747440 source:c:\users\l.s.petrescu\desktop\sourcecode_containers\set.cpp
+	<set>
+	<vector>
+	<iostream>
+	"outputContainer.h"
+
+1510746115 source:c:\users\l.s.petrescu\desktop\sourcecode_containers\vector.cpp
+	<iostream>
+	<vector>
+	"outputContainer.h"
+
+1510745525 source:c:\users\l.s.petrescu\desktop\sourcecode_containers\outputcontainer.cpp
+	"outputContainer.h"
+	<iostream>
+
+1510746115 c:\users\l.s.petrescu\desktop\sourcecode_containers\outputcontainer.h
+	<iostream>
+
+1549982070 source:c:\users\catal\desktop\stl\tema 1\list.cpp
+	<list>
+	<iostream>
+	<time.h>
+	"outputContainer.h"
+	<math.h>
+
+1547043810 c:\users\catal\desktop\stl\tema 1\outputcontainer.h
+	<iostream>
+	<string>
+
+1550143727 source:c:\users\catal\desktop\stl\tema 1\list_demo.cpp
+	<set>
+	<iostream>
+	<iterator>
+	<algorithm>
+	<fstream>
+	<list>
+	<algorithm>
+
+1550236074 source:c:\users\catal\desktop\stl\tema 1\map.cpp
+	<map>
+	"outputContainer.h"
+	<fstream>
+	<unordered_map>
+
+1547044039 source:c:\users\catal\desktop\stl\tema 1\problema_voturi.cpp
+	"problema_voturi.h"
+	<iostream>
+	<vector>
+	<string>
+	<map>
+
+1510665963 c:\users\catal\desktop\stl\tema 1\problema_voturi.h
+
+1550162645 source:c:\users\catal\desktop\stl\tema 1\set.cpp
+	<set>
+	<vector>
+	<iostream>
+	<fstream>
+	<algorithm>
+	"outputContainer.h"
+
+1549980412 source:c:\users\catal\desktop\stl\tema 1\vector.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<bits/stdc++.h>
+	"outputContainer.h"
+
+1550162665 source:c:\users\catal\desktop\stl\tema 1\main.cpp
+	<conio.h>
+	"vector.h"
+	"list.h"
+	"set.h"
+	"map.h"
+	"list_demo.h"
+	"problema_voturi.h"
+
+1510665971 c:\users\catal\desktop\stl\tema 1\vector.h
+	<iostream>
+	<vector>
+	<conio.h>
+
+1510665958 c:\users\catal\desktop\stl\tema 1\list.h
+	<list>
+	<iostream>
+
+1547043948 c:\users\catal\desktop\stl\tema 1\set.h
+	<set>
+	<iostream>
+
+1510747715 c:\users\catal\desktop\stl\tema 1\map.h
+
+1510133410 c:\users\catal\desktop\stl\tema 1\list_demo.h
+
